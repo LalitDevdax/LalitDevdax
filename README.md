@@ -1,21 +1,19 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LalitDevdax/LalitDevdax/main/IMG_20260517_145041.jpg" width="100%" alt="Vibe Coding Poster" style="margin-bottom: 15px;"/>
+<img src="https://raw.githubusercontent.com/LalitDevdax/LalitDevdax/main/IMG_20260517_145647.jpg" width="100%" alt="GG Senpai Banner" style="margin-bottom: 15px;"/>
 
-# ⚡ Hi, I'm Lalit Devda 
+#  Hi, I'm Lalit Devda 
 
    <a href="https://xaether.netlify.app"><img src="https://img.shields.io/badge/Current%20Project-Aether%20%E2%9A%A1-purple?style=for-the-badge" /></a>
    <a href="mailto:lalitdevda3449@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-Email-rose?style=for-the-badge&logo=gmail" /></a>
 
    <p align="center">
-      <b>Product-First Engineer | Frontend Developer | Crafting Premium Interfaces & Games 🐾</b>
+      <b>Product-First Engineer | Frontend Developer | Vibe Coding | Crafting Premium Interfaces </b>
    </p>
 
 ---
 
-<img src="https://raw.githubusercontent.com/LalitDevdax/LalitDevdax/main/wp8935500-anime-youtube-banner.JPG" width="100%" alt="Top Anime Banner" style="margin-top: 10px; margin-bottom: 10px;"/>
-
-## ✨ VIBE CODING ✨
+<img src="https://raw.githubusercontent.com/LalitDevdax/LalitDevdax/main/IMG_20260517_145041.jpg" width="100%" alt="Vibe Coding Poster" style="margin-top: 10px; margin-bottom: 10px;"/>
 
 </div>
 
@@ -70,18 +68,4 @@ Watch the snake navigate your green contribution blocks:
 <div align="center">
   <img src="https://raw.githubusercontent.com/LalitDevdax/LalitDevdax/output/github-contribution-grid-snake.svg" alt="Snake Game Grid" />
 </div>
-
 ---
-
-<div align="center">
-  
-### Connect With Me 🌐
-  
-[![TopCoder Badge](https://img.shields.io/badge/TopCoder-0A2540?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/560102)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalitdevda3449@gmail.com)
-
-<br>
-
-<img src="https://raw.githubusercontent.com/RyuuGi/RyuuGi/master/assets/images/bouncing_cats.gif" width="220" alt="Pixel Bouncing Cats Grid"/>
-
-</div>
