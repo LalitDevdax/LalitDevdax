@@ -11,8 +11,8 @@
 
 ---
 
-<!-- Pixel Art Vibe Coding Background -->
-<img src="https://image.api.playstation.com/vulcan/img/rnd/202102/2317/sC8o4H8JbV3Qn7w0e5Xg6R3A.png" width="100%" alt="Pixel Art Vibe Coding UI"/>
+<!-- Stable Cute Pixel Style Custom Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=11111b&height=160&section=header&text=%E2%9C%A8%20VIBE%20CODING%20%E2%9C%A8&fontAlignY=50&fontSize=40&fontColor=a6e3a1" width="100%" alt="Pixel Style Header"/>
 
 </div>
 
@@ -27,17 +27,14 @@
 ## 🛠️ Languages & Tools
 
 ### Frontend & Styling
-| | | | | |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/> <br> **React** | <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45" alt="Next.js"/> <br> **Next.js** | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind"/> <br> **Tailwind** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="45" height="45" alt="Sass"/> <br> **Sass** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap"/> <br> **Bootstrap** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.wordmark.svg" width="45" height="45" alt="React"/> <br> **React** | <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45" alt="Next.js"/> <br> **Next.js** | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind"/> <br> **Tailwind** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="45" height="45" alt="Sass"/> <br> **Sass** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap"/> <br> **Bootstrap** |
 
 ### Backend & Cloud Infrastructure
-| | | | | |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/> <br> **Node.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express"/> <br> **Express** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/> <br> **MongoDB** | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/> <br> **Firebase** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/> <br> **AWS** |
 
 ### Systems & Creative Utilities
-| | | | |
 | :---: | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/> <br> **Java** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/> <br> **JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/> <br> **Linux** | <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45" height="45" alt="Blender"/> <br> **Blender** |
 
@@ -56,20 +53,16 @@
       </td>
     </tr>
   </table>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitdevda3449&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350px" />
-  </p>
 </div>
 
 ---
 
 ## 🐍 The Contribution Arena
 
-Watch the snake navigate the green grid blocks as it targets the daily commits:
+Watch the snake navigate your green contribution blocks:
 
 <div align="center">
-  <img src="https://github.com/lalitdevda3449/lalitdevda3449/blob/output/github-contribution-grid-snake.svg" alt="Snake Game Grid" />
+  <img src="https://raw.githubusercontent.com/lalitdevda3449/lalitdevda3449/output/github-contribution-grid-snake.svg" alt="Snake Game Grid" />
 </div>
 
 ---
@@ -82,7 +75,7 @@ Watch the snake navigate the green grid blocks as it targets the daily commits:
 
 <br>
 
-<!-- Three Pixel Anime Cats Mascot -->
-<img src="https://raw.githubusercontent.com/gist/Aethelred/4774880/raw/d8b8a0115049c66d21f87f174c4314c16d3f3f01/cat.gif" width="150" alt="Pixel Cat GIF"/>
+<!-- Super Cute Bouncing Pixel Cats Asset -->
+<img src="https://raw.githubusercontent.com/RyuuGi/RyuuGi/master/assets/images/bouncing_cats.gif" width="220" alt="Pixel Bouncing Cats Grid"/>
 
 </div>
