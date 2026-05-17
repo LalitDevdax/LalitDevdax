@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/LalitDevdax/LalitDevdax/main/IMG_20260517_145041.jpg" width="100%" alt="Vibe Coding Poster" style="margin-bottom: 15px;"/>
+
 # ⚡ Hi, I'm Lalit Devda 
 
    <a href="https://xaether.netlify.app"><img src="https://img.shields.io/badge/Current%20Project-Aether%20%E2%9A%A1-purple?style=for-the-badge" /></a>
@@ -11,7 +13,9 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=11111b&height=160&section=header&text=%E2%9C%A8%20VIBE%20CODING%20%E2%9C%A8&fontAlignY=50&fontSize=40&fontColor=a6e3a1" width="100%" alt="Pixel Style Header"/>
+<img src="https://raw.githubusercontent.com/LalitDevdax/LalitDevdax/main/wp8935500-anime-youtube-banner.JPG" width="100%" alt="Top Anime Banner" style="margin-top: 10px; margin-bottom: 10px;"/>
+
+## ✨ VIBE CODING ✨
 
 </div>
 
