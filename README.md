@@ -44,23 +44,6 @@
 
 ---
 
-## 📊 Stats & Streaks
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=LalitDevdax&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LalitDevdax&theme=tokyonight" alt="Streak Stats" height="180px" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🐍 The Contribution Arena
 
 Watch the snake navigate your green contribution blocks:
