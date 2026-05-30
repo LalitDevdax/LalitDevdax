@@ -52,4 +52,3 @@ Watch the snake navigate your green contribution blocks:
   <img src="https://raw.githubusercontent.com/LalitDevdax/LalitDevdax/output/github-contribution-grid-snake.svg" alt="Snake Game Grid" />
 </div>
 ---
-why the contributions didt reflect here ??
