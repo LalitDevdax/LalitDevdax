@@ -2,14 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/LalitDevdax/LalitDevdax/main/IMG_20260517_145647.jpg" width="100%" alt="GG Senpai Banner" style="margin-bottom: 15px;"/>
 
-#  Hi, I'm Lalit Devda 
+#  Hi, I'm Lalit Devda 
 
-   <a href="https://xaether.netlify.app"><img src="https://img.shields.io/badge/Current%20Project-Aether%20%E2%9A%A1-purple?style=for-the-badge" /></a>
-   <a href="mailto:lalitdevda3449@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-Email-rose?style=for-the-badge&logo=gmail" /></a>
+   <a href="https://xaether.netlify.app"><img src="https://img.shields.io/badge/Current%20Project-Aether%20%E2%9A%A1-purple?style=for-the-badge" /></a>
+   <a href="mailto:lalitdevda3449@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-Email-rose?style=for-the-badge&logo=gmail" /></a>
 
-   <p align="center">
-      <b>Product-First Engineer | Frontend Developer | Vibe Coding | Crafting Premium Interfaces </b>
-   </p>
+   <p align="center">
+      <b>Product-First Engineer | Frontend Developer | Vibe Coding | Crafting Premium Interfaces </b>
+   </p>
 
 ---
 
@@ -44,11 +44,29 @@
 
 ---
 
+## 📊 Stats & Streaks
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=LalitDevdax&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LalitDevdax&theme=tokyonight" alt="Streak Stats" height="180px" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🐍 The Contribution Arena
 
 Watch the snake navigate your green contribution blocks:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LalitDevdax/LalitDevdax/output/github-contribution-grid-snake.svg" alt="Snake Game Grid" />
+  <img src="https://raw.githubusercontent.com/LalitDevdax/LalitDevdax/output/github-contribution-grid-snake.svg" alt="Snake Game Grid" />
 </div>
 ---
+why the contributions didt reflect here ??
